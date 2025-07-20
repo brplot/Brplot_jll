@@ -1,87 +1,113 @@
 [[Brplot]]
 arch = "aarch64"
-git-tree-sha1 = "772cfcda230ed3f47352c9c318dece7c53376cb9"
+git-tree-sha1 = "177eaf8f59f60d9367256a1abbee4a9cb08afb88"
 os = "macos"
 
     [[Brplot.download]]
-    sha256 = "15c10277138ff067ba5230527f6dd5bbf09aae7489d9549a69d1bde897fc9bd0"
-    url = "https://github.com/brplot/Brplot_jll/releases/download/Brplot-v0.0.4+0/Brplot.v0.0.4.aarch64-apple-darwin.tar.gz"
+    sha256 = "29aba28ed25fe102c48cf313419fb232645dd2fcc9097285b245a43ed187b1ef"
+    url = "https://github.com/brplot/Brplot_jll/releases/download/Brplot-v0.0.5+0/Brplot.v0.0.5.aarch64-apple-darwin.tar.gz"
 [[Brplot]]
 arch = "aarch64"
-git-tree-sha1 = "bf5cd25c0faf7302c955df409ae923358d42d3b5"
+git-tree-sha1 = "f7916e3b26cc6d8c5ee71d92f91337c77b6aa0b7"
 libc = "glibc"
 os = "linux"
 
     [[Brplot.download]]
-    sha256 = "39f9497742bd70f8acac7fa1769407a2f5ef42f14e4defb959d12c74862401c9"
-    url = "https://github.com/brplot/Brplot_jll/releases/download/Brplot-v0.0.4+0/Brplot.v0.0.4.aarch64-linux-gnu.tar.gz"
+    sha256 = "2e762c407a8c73c537d0ff1a169afe11f881aeaabdb1e107d6eb63b848a3d0e6"
+    url = "https://github.com/brplot/Brplot_jll/releases/download/Brplot-v0.0.5+0/Brplot.v0.0.5.aarch64-linux-gnu.tar.gz"
 [[Brplot]]
 arch = "aarch64"
-git-tree-sha1 = "53b98e109bc85408fd2ad612aa5c6c604b7a4fa5"
+git-tree-sha1 = "1a51e87d5ca29304d1c03498fbb90a2e5869d792"
 os = "freebsd"
 
     [[Brplot.download]]
-    sha256 = "049873ea04f7b07b58341b31419dae2ad4c1acc3d941b9d88089a4b099441c70"
-    url = "https://github.com/brplot/Brplot_jll/releases/download/Brplot-v0.0.4+0/Brplot.v0.0.4.aarch64-unknown-freebsd.tar.gz"
+    sha256 = "6cf046b6fdba29aed315879ecb6c2e9c8fdfd7d72772bb15828bedbdaa186bd7"
+    url = "https://github.com/brplot/Brplot_jll/releases/download/Brplot-v0.0.5+0/Brplot.v0.0.5.aarch64-unknown-freebsd.tar.gz"
 [[Brplot]]
 arch = "armv6l"
 call_abi = "eabihf"
-git-tree-sha1 = "63ee0e9b8f8b5b71b8c0a94238b17c7351da916e"
+git-tree-sha1 = "c75da71bdb9d04f3c73e62429221b0b682020b4c"
 libc = "glibc"
 os = "linux"
 
     [[Brplot.download]]
-    sha256 = "fc9b239e97c5c6b158c2ffdec670dafc0a9bb00aebbef2a7ef8ef97d46fbd202"
-    url = "https://github.com/brplot/Brplot_jll/releases/download/Brplot-v0.0.4+0/Brplot.v0.0.4.armv6l-linux-gnueabihf.tar.gz"
+    sha256 = "c070eb1a14001a15f547d106f00b45d40335cbac77ad27da7d90983d5ad25ae9"
+    url = "https://github.com/brplot/Brplot_jll/releases/download/Brplot-v0.0.5+0/Brplot.v0.0.5.armv6l-linux-gnueabihf.tar.gz"
 [[Brplot]]
 arch = "armv7l"
 call_abi = "eabihf"
-git-tree-sha1 = "ac095881c7153e16d1bc1b2bfdfd4eea06ff4491"
+git-tree-sha1 = "6c06657328d244b29c949c3359e23769fb5f9284"
 libc = "glibc"
 os = "linux"
 
     [[Brplot.download]]
-    sha256 = "55efe5c44d9fe28ed8295c5029764602c1ffa790de57bdf58685fd736da6e66d"
-    url = "https://github.com/brplot/Brplot_jll/releases/download/Brplot-v0.0.4+0/Brplot.v0.0.4.armv7l-linux-gnueabihf.tar.gz"
+    sha256 = "d06a0be56b7b3fd6e5e2519b5dcd976c526aa4588f968a15d8388e922422bb60"
+    url = "https://github.com/brplot/Brplot_jll/releases/download/Brplot-v0.0.5+0/Brplot.v0.0.5.armv7l-linux-gnueabihf.tar.gz"
 [[Brplot]]
-arch = "powerpc64le"
-git-tree-sha1 = "d6cf3d1af0e5836dec17620be84a1ec6165a3c77"
+arch = "i686"
+git-tree-sha1 = "43a9102c111ea06281dc23f9a62fb21d776851a6"
 libc = "glibc"
 os = "linux"
 
     [[Brplot.download]]
-    sha256 = "b47af51b35ab5beea129e276b614d210c60b4030f4437795d36addda63641732"
-    url = "https://github.com/brplot/Brplot_jll/releases/download/Brplot-v0.0.4+0/Brplot.v0.0.4.powerpc64le-linux-gnu.tar.gz"
+    sha256 = "e5e448bc3162175452f1175d82e3f9571a6ba6677e45605058e4f30d43661a1f"
+    url = "https://github.com/brplot/Brplot_jll/releases/download/Brplot-v0.0.5+0/Brplot.v0.0.5.i686-linux-gnu.tar.gz"
 [[Brplot]]
-arch = "x86_64"
-git-tree-sha1 = "3295e7942f925b40d7acf30c94f8f380f91670bc"
-os = "macos"
-
-    [[Brplot.download]]
-    sha256 = "dda9fe826226f0d9cba2b6d3718ffadc73c1952efbf683aa93f95e8cf4f5b063"
-    url = "https://github.com/brplot/Brplot_jll/releases/download/Brplot-v0.0.4+0/Brplot.v0.0.4.x86_64-apple-darwin.tar.gz"
-[[Brplot]]
-arch = "x86_64"
-git-tree-sha1 = "7c64c51bd063e044bfd507e31271dabde05e11d6"
-libc = "glibc"
-os = "linux"
-
-    [[Brplot.download]]
-    sha256 = "2f9eb3f2228acac8681916cc0dd9f8682587568c57b0e9f9c617f5e96a59e0b7"
-    url = "https://github.com/brplot/Brplot_jll/releases/download/Brplot-v0.0.4+0/Brplot.v0.0.4.x86_64-linux-gnu.tar.gz"
-[[Brplot]]
-arch = "x86_64"
-git-tree-sha1 = "5fc9d5041b632ab8369cea6754fbef99c9b2641f"
-os = "freebsd"
-
-    [[Brplot.download]]
-    sha256 = "80ccdc56ee3bb32191123c0a6e1f1ec4898738240b10b8855affc44413c6efcf"
-    url = "https://github.com/brplot/Brplot_jll/releases/download/Brplot-v0.0.4+0/Brplot.v0.0.4.x86_64-unknown-freebsd.tar.gz"
-[[Brplot]]
-arch = "x86_64"
-git-tree-sha1 = "2dbf5487a8273c727bab2050088ae5af69e60c8a"
+arch = "i686"
+git-tree-sha1 = "250d440b5ad7412dee63a1c338e69746dbc29b92"
 os = "windows"
 
     [[Brplot.download]]
-    sha256 = "c8048b7974db22ad25cff2a85c0273410e3b47c06be07aece1f780fde3dde547"
-    url = "https://github.com/brplot/Brplot_jll/releases/download/Brplot-v0.0.4+0/Brplot.v0.0.4.x86_64-w64-mingw32.tar.gz"
+    sha256 = "878a40b50d4d4887080b81fd071f2ec05014e80d7a2576cd1414898314d96f36"
+    url = "https://github.com/brplot/Brplot_jll/releases/download/Brplot-v0.0.5+0/Brplot.v0.0.5.i686-w64-mingw32.tar.gz"
+[[Brplot]]
+arch = "powerpc64le"
+git-tree-sha1 = "3bf9ac76d12c36ea3890ddb4761b91001e1821f0"
+libc = "glibc"
+os = "linux"
+
+    [[Brplot.download]]
+    sha256 = "756709aa433db89f9d66a9d9a0b3087c463ec37493ce9faadbe9be2d2107f806"
+    url = "https://github.com/brplot/Brplot_jll/releases/download/Brplot-v0.0.5+0/Brplot.v0.0.5.powerpc64le-linux-gnu.tar.gz"
+[[Brplot]]
+arch = "riscv64"
+git-tree-sha1 = "c797a04ab4fccc46892dfad1a88f00c351bb1bb6"
+libc = "glibc"
+os = "linux"
+
+    [[Brplot.download]]
+    sha256 = "82e8aad18b41db91c0029ab7753131f0854a40c2d542c264465d90ba237eeea1"
+    url = "https://github.com/brplot/Brplot_jll/releases/download/Brplot-v0.0.5+0/Brplot.v0.0.5.riscv64-linux-gnu.tar.gz"
+[[Brplot]]
+arch = "x86_64"
+git-tree-sha1 = "15f1844c87810f97f4cb0af1fed323bffd42aa52"
+os = "macos"
+
+    [[Brplot.download]]
+    sha256 = "ab69fccc96c5df87ecf2a1fada28f78e60d27dc3f79dd0dbf580094f7282649b"
+    url = "https://github.com/brplot/Brplot_jll/releases/download/Brplot-v0.0.5+0/Brplot.v0.0.5.x86_64-apple-darwin.tar.gz"
+[[Brplot]]
+arch = "x86_64"
+git-tree-sha1 = "a7c6ebe5146c00a5a577dac702d669fe0a182420"
+libc = "glibc"
+os = "linux"
+
+    [[Brplot.download]]
+    sha256 = "4cc34ebd1d1d67bb9b4ad5f0094748666dd8f3b5a3edc38979e7e7efbc500929"
+    url = "https://github.com/brplot/Brplot_jll/releases/download/Brplot-v0.0.5+0/Brplot.v0.0.5.x86_64-linux-gnu.tar.gz"
+[[Brplot]]
+arch = "x86_64"
+git-tree-sha1 = "19824a7d2705c9ddd6629f3c5fde1c480427f23e"
+os = "freebsd"
+
+    [[Brplot.download]]
+    sha256 = "04f0993fc7d01c6fd7ddcc574819c4f0c863f4a64733984178b6c41d86b06b39"
+    url = "https://github.com/brplot/Brplot_jll/releases/download/Brplot-v0.0.5+0/Brplot.v0.0.5.x86_64-unknown-freebsd.tar.gz"
+[[Brplot]]
+arch = "x86_64"
+git-tree-sha1 = "a3bc072cd0067757afbf8f5a0157a153e3f50cc9"
+os = "windows"
+
+    [[Brplot.download]]
+    sha256 = "acdc3d53e02997cf36984010cb9e80a9348125ff7f781f07f79a9735b9cb9db2"
+    url = "https://github.com/brplot/Brplot_jll/releases/download/Brplot-v0.0.5+0/Brplot.v0.0.5.x86_64-w64-mingw32.tar.gz"
